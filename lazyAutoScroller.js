@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name        LazyAutoScrollerJS
 // @namespace   https://github.com/Grrraou/lazyAutoScrollerJS
+// @match        https://9gag.com/*
+// @license MIT
 // @grant       none
 // @version     1.0
 // @author      -
