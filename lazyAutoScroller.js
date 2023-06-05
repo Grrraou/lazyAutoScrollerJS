@@ -1,3 +1,11 @@
+// ==UserScript==
+// @name        LazyAutoScrollerJS
+// @namespace   https://github.com/Grrraou/lazyAutoScrollerJS
+// @grant       none
+// @version     1.0
+// @author      -
+// @description 06/06/2023 00:48:42
+// ==/UserScript==
 // Create the start and stop buttons
 const autoscrollButton = document.createElement('button');
 autoscrollButton.innerHTML = '&#9658;'; // Play icon
